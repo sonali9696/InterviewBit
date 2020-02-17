@@ -1,6 +1,6 @@
 # InterviewBit
 
-This repo contains my solutions to some of the questions on the website https://www.interviewbit.com. Please note that they do not contain main function and hence can't be directly run on any other IDE except on InterviewBit.
+This repo contains my solutions to some of the questions on the website https://www.interviewbit.com. The link to my id is https://www.interviewbit.com/profile/sonali_agrawal. Please note that they do not contain main function and hence can't be directly run on any other IDE except on InterviewBit.
 
 Note:
 
